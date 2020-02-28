@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\chatclient\chatclient\bin\Debug\chatclient.exe.config
+C:\Users\Acer\source\repos\chatclient\chatclient\bin\Debug\chatclient.exe
+C:\Users\Acer\source\repos\chatclient\chatclient\bin\Debug\chatclient.pdb
+C:\Users\Acer\source\repos\chatclient\chatclient\obj\Debug\chatclient.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\chatclient\chatclient\obj\Debug\chatclient.frmchat.resources
+C:\Users\Acer\source\repos\chatclient\chatclient\obj\Debug\chatclient.Properties.Resources.resources
+C:\Users\Acer\source\repos\chatclient\chatclient\obj\Debug\chatclient.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\chatclient\chatclient\obj\Debug\chatclient.exe
+C:\Users\Acer\source\repos\chatclient\chatclient\obj\Debug\chatclient.pdb
